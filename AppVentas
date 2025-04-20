@@ -1,0 +1,7 @@
+```bash
+git init
+git remote add origin https://github.com/loremoncada1/AppVentas
+git add .
+git commit -m "Proyecto base Java - Lorena Moncada"
+git push -u origin main
+```
